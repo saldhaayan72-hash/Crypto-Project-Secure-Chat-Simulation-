@@ -40,7 +40,10 @@ This project implements a secure chat simulation using Diffie-Hellman for key ex
 - HMAC: Ensures message integrity and authenticity
 
 ## Screenshots
-(Add your screenshots here)
+<img width="1086" height="296" alt="Screenshot 2026-04-26 at 11 26 19 AM" src="https://github.com/user-attachments/assets/6f0763e6-662c-4e03-9cf3-1fecc999f18a" />
+<img width="998" height="264" alt="Screenshot 2026-04-26 at 11 19 41 AM" src="https://github.com/user-attachments/assets/455df7d0-7157-4f3a-973e-861bb441ac77" />
+
+
 
 ## Author
 Salma Aldhoayan
